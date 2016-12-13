@@ -1,3 +1,4 @@
 activeuserprofiles=LenovoPC;Team
 eclipse.preferences.version=1
 org.eclipse.rse.systemtype.local.systemType.defaultUserId=Igor
+useridperkey=LenovoPC.Local\=Igor;
